@@ -10,7 +10,7 @@ VALIDATE(){
     then 
          echo " $2 failure "
     else 
-         echo " $1  success "
+         echo " $2  success "
     fi 
 }
 
